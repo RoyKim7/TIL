@@ -171,4 +171,3 @@ print(rsult)
   print(type(a))
   ==> <class 'list'>
   ```
-
